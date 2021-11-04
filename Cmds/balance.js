@@ -3,7 +3,7 @@ name: "bal",
 aliases: ['balance','cash','money','coins','coin','wallet','networth'],
 code: `
 $author[$username[$findMember[$message]];$replaceText[$replaceText[$userAvatar[$findMember[$message]];null;$serverIcon];$servericon;null;$userAvatar[$clientid]]]
-$footer[Reequested by $userTag[$authorid];https://media.discordapp.net/attachments/904055071300542466/905862377541611601/aoiblue.webp]
+$footer[Requested by $userTag[$authorid];https://media.discordapp.net/attachments/904055071300542466/905862377541611601/aoiblue.webp]
 $thumbnail[$replaceText[$replaceText[$userAvatar[$findMember[$message]];null;$serverIcon];$servericon;null;$userAvatar[$clientid]]]
 $color[29befb]
 $description[
