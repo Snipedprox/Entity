@@ -1,5 +1,5 @@
-# Entity
-The GitHub Repository of a very *epic* bot known as **Entity**
+# Exoid
+The GitHub Repository of a very *epic* bot known as **Exoid**
 
 > Entity is a multi-purpose bot that focuses on mostly economy
 
