@@ -39,7 +39,7 @@ If commands are not working might be a problem with the prefix
 
 > In other cases:
 
-Check if the commands are correct, if you still dont know then shoot me a dm `Evade#7406
+Check if the commands are correct, if you still dont know then shoot me a dm `Snowy#4618
 `
 ### Contributing
 
